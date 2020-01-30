@@ -14,7 +14,7 @@ return [
      * Youtube Video API Key
      *  Restricted to 150 requests per day, max 25 requests per 100 seconds
      */
-    'YOUTUBE_VIDEO_API_KEY' => 'AIzaSyARPc5GbbLW1pc5D8xeivN6nK9b_ghA0mo',
+    'YOUTUBE_VIDEO_API_KEY' => 'AIzaSyB8AnIm29WzX6xiSWuxcw1hVgZ8uV2lqHg',
 
     /* APPLICATION AUTHOR */
     'AUTHOR' => 'Donal Lynch',
