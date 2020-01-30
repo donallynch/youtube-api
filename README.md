@@ -1,4 +1,4 @@
-# GEO PAL Assignment (Google Maps API)
+# YOUTUBE API DEMO (Youtube API)
 
 ### Controllers:
 
@@ -15,9 +15,10 @@
 
 ### Additional Files:
 
-1. public/js/map-handler.js
+1. public/js/youtube-api.js
 2. public/css/index.css
 3. resources/lang/gb/messages.php
+4. App/Services/Youtube.php
 
 
 ### MySQL Database:
@@ -48,4 +49,4 @@ Donal Lynch <donal.lynch.msc@gmail.com>
 
 ## License
 
-© 2019 Donal Lynch Software, Inc.
+© 2020 Donal Lynch Software, Inc.
