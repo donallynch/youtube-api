@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [51.1657, 10.4515]
+            },
+            "properties": {
+                "content": "<h4>Germany</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [52.5163, 13.3777]
+            },
+            "properties": {
+                "content": "<h4>Brandenburg Gate</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.9413, 6.9583]
+            },
+            "properties": {
+                "content": "<h4>Cologne Cathedral</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.5576, 10.7498]
+            },
+            "properties": {
+                "content": "<h4>Neuschwanstein Castle</h4>"
+            }
+         }
+    ]
+}

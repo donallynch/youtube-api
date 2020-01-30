@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.2276, 2.2137]
+            },
+            "properties": {
+                "content": "<h4>France</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.8584, 2.2945]
+            },
+            "properties": {
+                "content": "<h4>Eiffel Tower</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.2276, 2.2137]
+            },
+            "properties": {
+                "content": "<h4>Louvre</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.804722, 2.121782]
+            },
+            "properties": {
+                "content": "<h4>Palace of Versailles</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.9352, 6.0679]
+            },
+            "properties": {
+                "content": "<h4>Provence-Alpes-Côte d'Azur</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.6361, 1.5115]
+            },
+            "properties": {
+                "content": "<h4>Mont Saint-Michel</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.8530, 2.3499]
+            },
+            "properties": {
+                "content": "<h4>Cathédrale Notre-Dame de Paris</h4>"
+            }
+        }
+    ]
+}

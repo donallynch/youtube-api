@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.8719, 12.5674]
+            },
+            "properties": {
+                "content": "<h4>Italy</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.8902, 12.4922]
+            },
+            "properties": {
+                "content": "<h4>Colosseum</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.6000, 14.0154]
+            },
+            "properties": {
+                "content": "<h4>Sicily</h4>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9038163, 12.4476731]
+            },
+            "properties": {
+                "content": "<h4>Vatican City</h4>"
+            }
+         }
+    ]
+}
